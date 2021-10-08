@@ -88,17 +88,17 @@
 	padding: 0px;
 	margin: 350px auto;
 	width: 70%;
-	font-size: 22px;
+	font-size: 24px;
 	font-weight: 400;
 	line-height: 36px;
 	color: #656e7d;
 }
 .progress {
 	position: absolute;
-	width: 96px;
-	height: 96px;
-	left: 1400px;
-	top: 624px;
+	height: 120px;
+	width: 120px;
+	left: 92%;
+	top: 84%;
 	background: white;
 }
 select {
